@@ -16,14 +16,14 @@ Create the Earthquake Visualization
 
 1.  Visualize an earthquake dataset.
 
-  - Retrieve the dataset:  The USGS provides earthquake data in a number of different formats, updated every 5 minutes.         Visit the USGS GeoJSON Feed page and choose a dataset to visualize.
+    - Retrieve the dataset:  The USGS provides earthquake data in a number of different formats, updated every 5 minutes.         Visit the USGS GeoJSON Feed page and choose a dataset to visualize.
 
 2.  Import and visualize the data:
 
-  - Using Leaflet, create a map that plots all the earthquakes from the dataset based on their longitude and latitude.
+    - Using Leaflet, create a map that plots all the earthquakes from the dataset based on their longitude and latitude.
 
-    - The data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by            color. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear            darker in color.
+      - The data markers should reflect the magnitude of the earthquake by their size and the depth of the earthquake by            color. Earthquakes with higher magnitudes should appear larger, and earthquakes with greater depth should appear            darker in color.
 
-  - Include popups that provide additional information about the earthquake when its associated marker is clicked.
+    - Include popups that provide additional information about the earthquake when its associated marker is clicked.
 
-  - Create a legend that will provide context for your map data.
+    - Create a legend that will provide context for your map data.
