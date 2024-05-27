@@ -1,6 +1,6 @@
 # leaflet-challenge
 
-![USGS_Logo}(https://github.com/kgregart/leaflet-challenge/blob/main/Images/1-Logo.png)
+![USGS_Logo](https://github.com/kgregart/leaflet-challenge/blob/main/Images/1-Logo.png)
 
 # Background
 
